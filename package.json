@@ -1,0 +1,23 @@
+{
+  "name": "conceitos-spa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhemi-cristina/Project-JavaScript-simple.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhemi-cristina/Project-JavaScript-simple/issues"
+  },
+  "homepage": "https://github.com/jhemi-cristina/Project-JavaScript-simple#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
